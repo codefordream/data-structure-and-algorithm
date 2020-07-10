@@ -116,5 +116,5 @@ list.InsAtLast('Dec') #inserting element at last
 list.InsAtLoc('May',4) #inserting element at index 4, index starts from 0
 list.DelAtBegining() #delete element at begining
 list.DelAtLast() #delete element at last
-list.DelAtLoc(2) #delete element at index 4, index starts from 0
+list.DelAtLoc(2) #delete element at index 2, index starts from 0
 list.listprint() #print list elements
